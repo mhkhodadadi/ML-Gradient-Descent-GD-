@@ -1,5 +1,5 @@
 # Machine-Learning
-Samples and Projects
+(Samples and Projects)
 # Gradient Descent Implementation  
 
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)  
