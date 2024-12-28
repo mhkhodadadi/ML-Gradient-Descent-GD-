@@ -11,7 +11,6 @@ This repository contains implementations of gradient descent to solve a simple q
 - [1. Solving f(x) = (x + 3)^2](#1-solving-fx--x-3-2)  
 - [2. Fitting a Linear Model to a Wave Dataset](#2-fitting-a-linear-model-to-a-wave-dataset)  
 - [Installation](#installation)  
-- [Usage](#usage)  
 - [Results](#results)  
 - [License](#license)  
 
